@@ -1,0 +1,13 @@
+body {
+    background-color: red;
+
+}
+
+
+#navbar {
+    width: 52rem;
+}
+
+#home::before {
+    width: 52rem;
+}
